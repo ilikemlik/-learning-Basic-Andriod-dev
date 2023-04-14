@@ -1,1 +1,7 @@
 theme: minima
+title: (learning) intro web-based games
+author: Jonathan
+description: little personal project, trying to make a mahjong game eventually. This is the different routes being taken to reach that goal
+
+base: main
+compare:my-pages
